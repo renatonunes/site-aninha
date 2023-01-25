@@ -1,0 +1,76 @@
+@import url('https://fonts.cdnfonts.com/css/gistesy');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+
+#name {
+  font-family: 'Gistesy', sans-serif;
+  font-size: 65px;
+}
+
+#description {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  color: #a77882;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(#E1C2C0, #F6EDEB);
+}
+
+
+.box {
+  width: 100vw;
+  height: 100vh;
+  /* background: blue; */
+  max-width: 600px;
+}
+
+.box_header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  background-color: #aaa;
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  /* margin: 10px; */
+  border: 16px solid #a77882;
+  margin: 20px;
+}
+
+.box_button {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.button {
+  background-color: #a77882;
+  border: none;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  border-radius: 50px; 
+  cursor: pointer;
+  width: 60%;
+  width: inline;
+  font-family: 'Roboto', sans-serif;
+  margin: 1.5%;
+
+}
+
+
+
