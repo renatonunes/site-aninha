@@ -23,11 +23,13 @@ export default function Home() {
         <div className={styles.container}>
           <div className={styles.box}>
             <div className={styles.box_header}>
-              <img 
+              <Image 
                 src={"/images/foto.png"}
                 alt="Foto"
-                className={styles.image}                
-                />
+                className={styles.image}
+                width="1200"
+                height="1200"          
+              />
               <p id={styles.name}>Ana Gilli</p>
               <p id={styles.description}>Especialista em Sobrancelhas</p>
             </div>
