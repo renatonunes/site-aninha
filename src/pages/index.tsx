@@ -28,7 +28,7 @@ export default function Home() {
                 alt="Foto"
                 className={styles.image}
                 width="1200"
-                height="1200"          
+                height="1200"           
               />
               <p id={styles.name}>Ana Gilli</p>
               <p id={styles.description}>Especialista em Sobrancelhas</p>
