@@ -11,10 +11,10 @@ export default function Home() {
     <>
       <Head>
         <title>Ana Sobrancelhas</title>
-        <meta name="keywords" content="Sobrancelha, Sobrancelhas Itajaí, Itajaí, Designer de Sobrancelhas, Ana Sobrancelhas Itajaí" />
+        <meta name="keywords" content="Sobrancelha, Sobrancelhas Itajaí, Itajaí, Designer de Sobrancelhas, Ana Sobrancelhas Itajaí, Ana Sobrancelhas" />
         <meta 
           name="description"
-          content="Melhor designer de sobrancelhas em Itajaí"
+          content="Especialista em Sobrancelhas"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png"/>
