@@ -32,8 +32,8 @@ export default function Home() {
                 src={"/images/foto.png"}
                 alt="Foto"
                 className={styles.image}
-                width="1200"
-                height="1200"           
+                width="843"
+                height="843"           
               />
               <p id={styles.name}>Ana Gilli</p>
               <p id={styles.description}>Especialista em Sobrancelhas</p>

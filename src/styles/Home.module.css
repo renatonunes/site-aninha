@@ -6,12 +6,13 @@
 #name {
   font-family: 'Gistesy', sans-serif;
   font-size: 65px;
+  color: white;
 }
 
 #description {
   font-family: 'Roboto', sans-serif;
   font-size: 24px;
-  color: #a77882;
+  color: white;
 }
 
 .container {
@@ -21,7 +22,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(#E1C2C0, #F6EDEB);
+  background-image: linear-gradient(#32231c, #8c6651);
   min-height: 100vh;
 }
 
@@ -46,7 +47,7 @@
   width: 250px;
   height: 250px;
   /* margin: 10px; */
-  border: 16px solid #a77882;
+  border: 16px solid #8c6651;
   margin: 20px;
 }
 
@@ -59,7 +60,7 @@
 }
 
 .button {
-  background-color: #a77882;
+  background-color: #8c6651;
   border: none;
   color: white;
   padding: 20px;
