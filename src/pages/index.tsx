@@ -11,10 +11,10 @@ export default function Home() {
     <>
       <Head>
         <title>Ana Sobrancelhas</title>
-        <meta name="keywords" content="Sobrancelha, Sobrancelhas Itajaí, Itajaí, Designer de Sobrancelhas, Ana Sobrancelhas Itajaí, Ana Sobrancelhas" />
+        <meta name="keywords" content="Studio de Beleza, STUDIO ANA BEAUTY - ITAJAÍ, Sobrancelha, Sobrancelhas Itajaí, Itajaí, Designer de Sobrancelhas, Ana Sobrancelhas Itajaí, Ana Sobrancelhas, Salão de Beleza, Cílios, Cilios, Unha, Manicure" />
         <meta 
           name="description"
-          content="Especialista em Sobrancelhas"
+          content="STUDIO ANA BEAUTY - ITAJAÍ"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png"/>
@@ -29,14 +29,14 @@ export default function Home() {
           <div className={styles.box}>
             <div className={styles.box_header}>
               <Image 
-                src={"/images/foto.png"}
+                src={"/images/foto4.png"}
                 alt="Foto"
                 className={styles.image}
                 width="843"
                 height="843"           
               />
-              <p id={styles.name}>Ana Gilli</p>
-              <p id={styles.description}>Especialista em Sobrancelhas</p>
+              <p id={styles.name}>Ana Beauty</p>
+              {/* <p id={styles.description}>Especialista em Sobrancelhas</p> */}
             </div>
 
             <div className={styles.box_button}>
