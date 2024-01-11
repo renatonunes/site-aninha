@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Ana Sobrancelhas</title>
+        <title>Ana Beauty</title>
         <meta name="keywords" content="Studio de Beleza, STUDIO ANA BEAUTY - ITAJAÍ, Sobrancelha, Sobrancelhas Itajaí, Itajaí, Designer de Sobrancelhas, Ana Sobrancelhas Itajaí, Ana Sobrancelhas, Salão de Beleza, Cílios, Cilios, Unha, Manicure" />
         <meta 
           name="description"
